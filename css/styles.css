@@ -248,12 +248,13 @@ form article span {
 }
 
 form button {
-    background-color: #664EFC;
+    background-color: #5446b1;
     color: #ffff;
-    border-radius: 0.3125rem;
+    border-radius: 1.5rem;
     padding: 1rem;
     width: 100%;
     border: none;
+    font-size: 1rem;
 }
 
 
